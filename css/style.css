@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-transform: capitalize;
+}
+
+h1{
+    font-family: 'Dancing Script', cursive;
+
+}
+/* .card-body img{
+    width: 50%;
+    height: 200px;
+} */
+.carousel-item{
+    width: 100vw;
+    height: 95vh;
+}
